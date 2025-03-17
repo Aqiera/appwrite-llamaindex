@@ -1,0 +1,19 @@
+{
+  "name": "appwrite",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000p\u0000p\u0000w\u0000r\u0000i\u0000t\u0000e\u0000-\u0000l\u0000l\u0000a\u0000m\u0000a\u0000i\u0000n\u0000d\u0000e\u0000x\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "appwrite": "^17.0.1",
+    "form-data": "^4.0.2",
+    "markdown-it": "^14.1.0",
+    "node-fetch": "^3.3.2",
+    "xlsx": "^0.18.5"
+  }
+}
